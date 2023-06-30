@@ -1,7 +1,6 @@
 # LiberaGroup
 
-
-<img alt="Website" src="https://img.shields.io/website?up_color=green&down_message=Under%20Maintenance&down_color=red&url=https%3A%2F%2Fliberagroup.fr&style=for-the-badge">
+<a href="https://liberagroup.fr/"><img alt="Website" src="https://img.shields.io/website?up_color=green&down_message=Under%20Maintenance&down_color=red&url=https%3A%2F%2Fliberagroup.fr&style=for-the-badge"></a>
 
 ## 📜 Information
 
